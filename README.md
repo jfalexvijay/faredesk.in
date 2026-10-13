@@ -26,6 +26,7 @@ FareDesk is an invoice-generation application developed by J. Alex Antony Vijay 
 | [Privacy Policy](https://jfalexvijay.github.io/faredesk.in/privacy.html) | Privacy and data handling practices |
 | [Terms & Conditions](https://jfalexvijay.github.io/faredesk.in/terms.html) | Terms governing app usage |
 | [About Us](https://jfalexvijay.github.io/faredesk.in/aboutus.html) | Information about FareDesk |
+| [Marketing Page](https://jfalexvijay.github.io/faredesk.in/marketing-page.html) | Marketing Page |
 
 ## Hosting
 
