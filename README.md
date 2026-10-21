@@ -21,7 +21,7 @@ FareDesk is an invoice-generation application developed by J. Alex Antony Vijay 
 
 | Page | Description |
 |---|---|
-| [Portfolio](https://jfalexvijay.github.io/faredesk.in/) | Developer's Portfolio |
+| [Portfolio](https://jfalexvijay.github.io/portfolio/) | Developer's Portfolio |
 | [Help & Support](https://jfalexvijay.github.io/faredesk.in/support.html) | Assistance and support for FareDesk users |
 | [Privacy Policy](https://jfalexvijay.github.io/faredesk.in/privacy.html) | Privacy and data handling practices |
 | [Terms & Conditions](https://jfalexvijay.github.io/faredesk.in/terms.html) | Terms governing app usage |
@@ -34,22 +34,6 @@ This website is hosted using [GitHub Pages](https://pages.github.com/).
 
 **Website:** https://jfalexvijay.github.io/faredesk.in/
 
-## Deployment
-
-The website is deployed from the `main` branch using GitHub Pages.
-
-To update the website:
-
-1. Edit the relevant HTML file.
-2. Commit and push the changes to the `main` branch.
-3. Wait for GitHub Pages to complete deployment.
-4. Verify the published page.
-
-### GitHub Pages Configuration
-
-- **Source:** Deploy from a branch
-- **Branch:** `main`
-- **Folder:** `/(root)`
 
 ## Support
 
